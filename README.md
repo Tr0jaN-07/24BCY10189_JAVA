@@ -45,7 +45,7 @@ LibraryManagementSystem/
 │   ├── books.txt
 │   └── members.txt
 ├── README.md
-|── statement.md
+├── statement.md 
 └── .gitignore
 ```
 
