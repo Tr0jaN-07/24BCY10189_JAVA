@@ -142,6 +142,7 @@ The application stores book and member information in the `data` directory. Data
 
 ## Author
 
-Your Name
+**SATWIK SINGH CHAUHAN**
+**24BCY10189**
 
 Programming in Java Project
