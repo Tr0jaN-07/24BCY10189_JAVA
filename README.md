@@ -140,6 +140,22 @@ The application stores book and member information in the `data` directory. Data
 - Database integration
 - Graphical user interface
 
+## Testing
+
+The application was tested through the command-line interface using the following scenarios:
+
+- Adding a new book
+- Removing an existing book
+- Searching for a book by title or author
+- Registering a new member
+- Issuing an available book
+- Preventing an already issued book from being issued again
+- Returning an issued book
+- Preventing a member from issuing more than 3 books
+- Detecting duplicate book and member IDs
+- Handling invalid numeric input
+- Verifying that data remains available after restarting the application
+
 ## Author
 
 **SATWIK SINGH CHAUHAN**
