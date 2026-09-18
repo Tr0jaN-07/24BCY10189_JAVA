@@ -64,8 +64,8 @@ javac -version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/library-management-system.git
-cd library-management-system
+git clone https://github.com/Tr0jaN-07/24BCY10189_JAVA
+cd 24BCY10189_JAVA
 ```
 
 ### 2. Compile the project
